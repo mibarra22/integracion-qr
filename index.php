@@ -23,6 +23,7 @@
                 <input name="tokenChatwoot" type="text" placeholder="token de usuario">
 
                 <button class="next-tab" type="submit">Enviar <span class="material-icons-outlined">arrow_forward</span></button>
+                </form>
             </div>
         </div> 
     
@@ -31,6 +32,6 @@
 
 </div>    
 
-    </form>
+    
 </body>
 </html>

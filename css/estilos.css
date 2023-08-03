@@ -49,6 +49,7 @@ border-radius: 10px;
 gap: 15px;
 border: 1px solid #E0E6F7;
 }
+
 .first-area {
 text-align: center;
 }
@@ -384,4 +385,28 @@ color: #c0ccda;
 
 input#TOKEN_API {
 width: 89%;
+}
+
+
+.upload-files-container-3 {
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 420px;
+    height: 410px;
+    padding: 30px 60px;
+    border-radius: 10px;
+    border: 1px solid #E0E6F7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.contenedor-general{
+    margin-top: 10%;
+    display: grid;
+    align-items:center;
+    justify-items: center;
 }
