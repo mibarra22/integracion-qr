@@ -15,7 +15,7 @@
         <div style="position: absolute;top: 0;"><h1>Integración Qr</h1></div>
         <div class="upload-files-container">
         <h2>📲 Integra con WhatsApp Qr</h2>
-        <small>Solo necesita el numero de WhatsApp, ID de su cuenta y el Token de su usuario. Vea el siguiente tutorial para conseguirlos en 1 minuto. Más detalles en la <a href="https://chatbuho.github.io/documentacion/herramientas-adicionales/Exportar-contactos" target="_blank">documentación</a>.</small>
+        <small>Solo necesita el numero de WhatsApp, ID de su cuenta y el Token de su usuario. Vea el siguiente tutorial para conseguirlos en 1 minuto. Más detalles en la <a href="https://chatbuho.github.io/documentacion/integraciones/Qr-Whatsapp" target="_blank">documentación</a>.</small>
             <div>
                 <form action="./crear_instancia.php" method="post">
                 <input name="numberWhatsapp" type="text" placeholder="número de WhatsApp">
