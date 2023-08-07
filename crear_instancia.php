@@ -58,7 +58,7 @@ curl_close($curl);
           <div class="first-area">
             <span class="material-icons-outlined upload-icon">check_circle</span>
             <h2 class="dynamic-message">
-              <span id="contadorEnvios"></span> Conexión Qr satisfactoria!
+              <span id="contadorEnvios"></span> Canal Qr creado satisfactoriamente!
             </h2>
           </div>
           <a class="return-tab" onclick="returnHome();">Crear otro canal Qr
